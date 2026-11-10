@@ -1,0 +1,7 @@
+intake_era,type,total_titles,avg_latency_years,same_year_pct,recent_window_pct,catalog_pct,vintage_pct
+Early Intake (< 2016),Movie,103,3.3,64.1,21.4,1.0,13.6
+Early Intake (< 2016),TV Show,41,3.8,39.0,31.7,17.1,12.2
+Growth Wave (2016-2018),Movie,2375,4.3,31.6,33.4,24.5,10.5
+Growth Wave (2016-2018),TV Show,972,3.1,41.5,28.9,23.5,6.2
+Peak Era (2019-2021),Movie,2897,6.7,27.5,24.7,26.1,21.6
+Peak Era (2019-2021),TV Show,1377,1.8,57.5,21.9,16.8,3.8

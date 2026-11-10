@@ -1,0 +1,9 @@
+content_type,quartile_or_tier,title_count,min_metric,max_metric,avg_metric
+TV Show,1 Season (Limited),1608,1,1,1.0
+TV Show,2-3 Seasons (Mid-Run),566,2,3,2.3
+TV Show,4-6 Seasons (Established),175,4,6,4.7
+TV Show,7+ Seasons (Legacy),61,7,16,8.8
+Movie,Q1,1345,3,86,65.1
+Movie,Q2,1344,86,98,92.3
+Movie,Q3,1344,98,114,105.2
+Movie,Q4,1344,114,312,134.6

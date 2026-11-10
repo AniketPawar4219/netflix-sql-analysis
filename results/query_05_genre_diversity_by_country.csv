@@ -1,0 +1,16 @@
+country_name,country_rank,genre_rank_in_country,genre_name,genre_titles,total_country_titles,catalog_penetration_pct
+United States,1,1,Dramas,716,3297,21.72
+United States,1,2,Comedies,588,3297,17.83
+United States,1,3,Documentaries,478,3297,14.5
+India,2,1,International Movies,828,990,83.64
+India,2,2,Dramas,626,990,63.23
+India,2,3,Comedies,308,990,31.11
+United Kingdom,3,1,British TV Shows,212,723,29.32
+United Kingdom,3,2,Dramas,156,723,21.58
+United Kingdom,3,3,International Movies,149,723,20.61
+Canada,4,1,Comedies,81,412,19.66
+Canada,4,2,Dramas,71,412,17.23
+Canada,4,3,Children & Family Movies,68,412,16.5
+France,5,1,International Movies,191,349,54.73
+France,5,2,Dramas,145,349,41.55
+France,5,3,Independent Movies,61,349,17.48

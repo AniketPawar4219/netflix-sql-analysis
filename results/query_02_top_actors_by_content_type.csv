@@ -1,0 +1,52 @@
+type,rank_in_type,actor_name,total_appearances,career_span
+Movie,1,Anupam Kher,41,1990 - 2019
+Movie,2,Shah Rukh Khan,35,1992 - 2019
+Movie,3,Naseeruddin Shah,30,1982 - 2018
+Movie,3,Om Puri,30,1982 - 2017
+Movie,4,Akshay Kumar,29,2004 - 2019
+Movie,5,Amitabh Bachchan,27,1975 - 2019
+Movie,5,Boman Irani,27,2003 - 2019
+Movie,5,Paresh Rawal,27,1990 - 2019
+Movie,6,Kareena Kapoor,25,2001 - 2016
+Movie,7,Ajay Devgn,21,2002 - 2017
+Movie,8,Kay Kay Menon,20,2003 - 2019
+Movie,8,Nawazuddin Siddiqui,20,2007 - 2020
+Movie,8,Salman Khan,20,1989 - 2019
+Movie,9,Adam Sandler,19,1998 - 2020
+Movie,9,Gulshan Grover,19,1983 - 2017
+Movie,9,John Cleese,19,1975 - 2021
+Movie,9,Nicolas Cage,19,2004 - 2018
+Movie,9,Samuel L. Jackson,19,1992 - 2020
+Movie,10,Anil Kapoor,18,1995 - 2020
+Movie,10,James Franco,18,2005 - 2019
+Movie,10,Yashpal Sharma,18,2001 - 2017
+TV Show,1,Takahiro Sakurai,22,2008 - 2020
+TV Show,2,Yuki Kaji,17,2010 - 2020
+TV Show,3,Ai Kayano,16,2011 - 2020
+TV Show,3,Daisuke Ono,16,2010 - 2019
+TV Show,4,Junichi Suwabe,15,2008 - 2020
+TV Show,5,Yoshimasa Hosoya,14,2010 - 2020
+TV Show,5,Yuichi Nakamura,14,2008 - 2020
+TV Show,6,David Attenborough,13,2001 - 2019
+TV Show,6,Hiroshi Kamiya,13,2010 - 2020
+TV Show,6,Jun Fukuyama,13,2008 - 2020
+TV Show,6,Kana Hanazawa,13,2010 - 2020
+TV Show,6,Vincent Tong,13,2011 - 2020
+TV Show,7,Ashleigh Ball,12,2013 - 2020
+TV Show,7,Tomokazu Sugita,12,2012 - 2020
+TV Show,8,Mamoru Miyano,11,2006 - 2019
+TV Show,8,Natsuki Hanae,11,1999 - 2020
+TV Show,8,Tay Ping Hui,11,2007 - 2020
+TV Show,9,Katsuyuki Konishi,10,1999 - 2020
+TV Show,9,Miyuki Sawashiro,10,2010 - 2020
+TV Show,9,Nobuhiko Okamoto,10,2010 - 2019
+TV Show,9,Ryohei Kimura,10,2010 - 2020
+TV Show,10,Daisuke Namikawa,9,2012 - 2020
+TV Show,10,Eri Kitamura,9,2008 - 2020
+TV Show,10,Johnny Yong Bosch,9,1996 - 2017
+TV Show,10,Kaito Ishikawa,9,2013 - 2020
+TV Show,10,Kenjiro Tsuda,9,2012 - 2020
+TV Show,10,Saori Hayami,9,2011 - 2019
+TV Show,10,Sayaka Ohara,9,2008 - 2018
+TV Show,10,Takehito Koyasu,9,1995 - 2020
+TV Show,10,Yoko Hikasa,9,2010 - 2020

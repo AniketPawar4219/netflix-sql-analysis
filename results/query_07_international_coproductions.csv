@@ -1,0 +1,17 @@
+rank,bilateral_corridor,country_a,country_b,co_production_count
+1,United States <-> United Kingdom,United States,United Kingdom,232
+2,United States <-> Canada,United States,Canada,189
+3,United States <-> France,United States,France,98
+4,United States <-> Germany,United States,Germany,71
+5,France <-> Belgium,France,Belgium,55
+6,United Kingdom <-> Canada,United Kingdom,Canada,54
+7,United Kingdom <-> France,United Kingdom,France,51
+7,United States <-> Japan,United States,Japan,51
+8,United States <-> China,United States,China,47
+9,United Kingdom <-> Germany,United Kingdom,Germany,44
+10,United States <-> Australia,United States,Australia,40
+11,Mexico <-> United States,Mexico,United States,39
+12,Hong Kong <-> China,Hong Kong,China,37
+13,France <-> Germany,France,Germany,35
+14,United States <-> India,United States,India,33
+15,Canada <-> France,Canada,France,32

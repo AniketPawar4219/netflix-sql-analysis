@@ -1,0 +1,16 @@
+ranking,genre_pair,genre_a,genre_b,cooccurrence_count,catalog_cooccurrence_pct
+1,Dramas & International Movies,Dramas,International Movies,1295,16.63
+2,International Movies & Comedies,International Movies,Comedies,732,9.4
+3,Dramas & Independent Movies,Dramas,Independent Movies,514,6.6
+4,International TV Shows & TV Dramas,International TV Shows,TV Dramas,469,6.02
+5,Dramas & Comedies,Dramas,Comedies,436,5.6
+6,International Movies & Action & Adventure,International Movies,Action & Adventure,353,4.53
+7,International Movies & Romantic Movies,International Movies,Romantic Movies,330,4.24
+8,International TV Shows & Romantic TV Shows,International TV Shows,Romantic TV Shows,285,3.66
+9,International TV Shows & Crime TV Shows,International TV Shows,Crime TV Shows,269,3.45
+10,International Movies & Documentaries,International Movies,Documentaries,263,3.38
+11,Dramas & Romantic Movies,Dramas,Romantic Movies,253,3.25
+12,International Movies & Independent Movies,International Movies,Independent Movies,249,3.2
+13,Comedies & Romantic Movies,Comedies,Romantic Movies,245,3.15
+14,International Movies & Thrillers,International Movies,Thrillers,229,2.94
+15,Comedies & Children & Family Movies,Comedies,Children & Family Movies,225,2.89

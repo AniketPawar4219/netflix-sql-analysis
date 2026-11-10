@@ -1,0 +1,28 @@
+# ==============================================================================
+# Netflix SQL Data Analysis - .gitignore
+# ==============================================================================
+
+# Compiled and binary database files (can be regenerated deterministically via `python scripts/ingest_data.py`)
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor configurations
+.idea/
+.vscode/
+*.swp
+*.swo
